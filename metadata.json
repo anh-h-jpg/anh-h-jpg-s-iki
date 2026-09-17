@@ -1,0 +1,6 @@
+{
+  "name": "Đặt Cơm Trưa Nội Bộ",
+  "description": "Hệ thống đặt cơm trưa nội bộ kết nối Supabase, phân quyền Nhân viên, Bếp (cập nhật Realtime) và Admin quản lý thanh toán & menu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
